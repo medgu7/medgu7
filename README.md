@@ -10,9 +10,6 @@
 ## 🏆 About Me  
 
 - **Deep Learning Researcher** at RWTH Aachen, working on **cell segmentation, tracking, and classification** in **3D+t microscopy images**.
-- Built a **text-to-image generation model from scratch** using Deep Learning.
-- Developed a **predictive model for NBA game outcomes** using logistic regression, neural networks, and Naïve Bayes.
-
 
 ---
 
